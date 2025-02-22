@@ -7,6 +7,9 @@
     "light": "#df3939",
     "dark": "#df3939"
   },
+  "background": {
+    "image": "https://cdn.maxmoon.sh/TCkiH6tFMb.png"
+  },
   "favicon": "/favicon.svg",
   "navigation": {
     "tabs": [
