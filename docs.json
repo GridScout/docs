@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "GridScout Docs",
   "colors": {
-    "primary": "#ee0000",
-    "light": "#15151e",
-    "dark": "#15151e"
+    "primary": "#15151e",
+    "light": "#ee0000",
+    "dark": "#ee0000"
   },
   "favicon": "/favicon.svg",
   "navigation": {
