@@ -4,8 +4,8 @@
   "name": "GridScout Docs",
   "colors": {
     "primary": "#15151e",
-    "light": "#ee0000",
-    "dark": "#ee0000"
+    "light": "#df3939",
+    "dark": "#df3939"
   },
   "favicon": "/favicon.svg",
   "navigation": {
